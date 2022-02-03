@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently on Universidade do Minho studying computer science
 - 🌱 I’m currently learning C language
-- ⚡ Fun fact: i love sports
+- ⚡ Fun fact: I love sports
 
 <div align="center">
   <a href="https://github.com/amon1aco">
