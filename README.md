@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">A passionate developer from Portugal</h3>
+<h1>Hi 👋, I'm Eduardo</h1>
+<h3>A passionate developer from Portugal</h3>
 
 - 🔭 I’m currently looking for **enter the master's degree in computer engineering**
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **eduardoascunha1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
