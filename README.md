@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Eduardo</h1>
 <h3>A passionate developer from Portugal</h3>
 
-- 🔭 I’m currently looking for **enter the master's degree in computer engineering**
+- 🔭 I am currently studying **master's degree in computer engineering**
 
 - 🌱 I’m currently learning **git**
 
