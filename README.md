@@ -3,8 +3,6 @@
 
 - 🔭 I am currently studying **master's degree in computer engineering**
 
-- 🌱 I’m currently learning **git**
-
 - 📫 How to reach me **eduardoascunha1@gmail.com**
 
 <p align="left">
